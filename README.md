@@ -1,1 +1,1 @@
-Repository showcasing key software and hardware design projects from my Electrical Engineering coursework.
+These projects were developed and executed as a mandatory assignment for the Hardware Exposure Lab. They were completed in collaboration of  RAZ TASSA https://www.linkedin.com/in/raz-tassa-3407722a6/  and WASEM BKRIYA https://www.linkedin.com/in/wasem-bk/ , utilizing C code for the firmware and the Arduino microcontroller for hardware control.
